@@ -5,7 +5,7 @@ I am Web developer.
 --------------------------
 
 *   🌍  GoVap, Ho Chi Minh 
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='#'>Portfolio</a>
 *   🧠  ***
 *   🤝  ***
 
@@ -21,6 +21,4 @@ I am Web developer.
 <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> &nbsp; -->
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> &nbsp; 
 
-### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
