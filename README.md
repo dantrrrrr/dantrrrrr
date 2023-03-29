@@ -21,4 +21,5 @@ I am Web developer.
 <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> &nbsp; -->
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> &nbsp; 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantrrrrr)](https://github.com/anuraghazra/github-readme-stats)
 
