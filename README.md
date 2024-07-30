@@ -1,5 +1,4 @@
-# 💫 About Me:
-👨‍💻 Recent IT graduate with 1 year of coding experience, eager for developer opportunities<br>🚀 Skilled in Node.js, React.js, and MERN stack development<br>🌐 Enthusiastic full-stack developer exploring Express.js, Nest.js, and React Native<br>📜 Currently pursuing certifications to further enhance my skills
+
 
 
 ## 🌐 Socials:
